@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run tds_app.py
+worker: sh setup.sh && streamlit run tds_app.py
